@@ -1,4 +1,4 @@
-# Indian Flag Design
+# Indian Flag Design ❤️
 This repository features a representation of the Indian Flag created using HTML and CSS. This project showcases the national flag's tricolor stripes and Ashoka Chakra with a clean and responsive design, demonstrating the power of CSS for visual representation.
 
 ## Features
